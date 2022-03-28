@@ -4,7 +4,7 @@ function DFS(node) {
     let explored = new Set();
     s.push(node);
 
-    // Mark the first node as explored
+    // Mark the first node as explored.
     explored.add(node);
 
     // We'll continue till our Stack gets empty
