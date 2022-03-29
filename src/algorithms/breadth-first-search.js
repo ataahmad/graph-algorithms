@@ -24,7 +24,9 @@ function BFS(node) {
          q.enqueue(n);
       });
 
-      // Hello
+      // Adding in more commentary
+      // Breadth First Searching
+      // Commits ready.
    }
 }
 
